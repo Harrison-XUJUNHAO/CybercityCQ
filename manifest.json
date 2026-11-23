@@ -1,0 +1,755 @@
+{
+  "note": "镜像目录（仓库根 = 镜像基址），等负责人确认后再推送；镜像地址 = 镜像基址 + path",
+  "repository": "https://github.com/Harrison-XUJUNHAO/CybercityCQ",
+  "mirrorBase": "https://cdn.jsdelivr.net/gh/Harrison-XUJUNHAO/CybercityCQ@<提交号>",
+  "files": 148,
+  "totalBytes": 38624922,
+  "limits": {
+    "fileBytes": 20000000,
+    "repoBytes": 50000000
+  },
+  "oversized": [],
+  "overRepoLimit": false,
+  "rows": [
+    {
+      "path": "/v/cefd26642845cfba21eb/cq/cq-laojundong-original/assets/models/avalokitesvara.glb",
+      "bytes": 446120,
+      "sha256": "cefd26642845cfba21eb6e2cb9da2d040f01e35d22423235a4e1822f44bcf675"
+    },
+    {
+      "path": "/v/342a28ff653f2eeeab50/cq/cq-laojundong-original/assets/models/buddha.glb",
+      "bytes": 407140,
+      "sha256": "342a28ff653f2eeeab507a48a8bc595fd8b10f9fb0c6262eb686e42fc99a414f"
+    },
+    {
+      "path": "/v/99e557c649dad4388371/cq/cq-laojundong-original/assets/models/gongyang-cat.glb",
+      "bytes": 196856,
+      "sha256": "99e557c649dad43883711beaf67916970399304598c36dfad44565fa0b4e2c33"
+    },
+    {
+      "path": "/v/026869a1f019bce619b8/cq/cq-laojundong-original/assets/models/mahastamaprapta.glb",
+      "bytes": 440760,
+      "sha256": "026869a1f019bce619b89ca566a8ceb898c8e8fba8f9e9c8e2b809fb9653b775"
+    },
+    {
+      "path": "/v/af510a538a2d6dcfe4c0/cq/cq-laojundong-original/assets/models/village-avalokitesvara-preview.glb",
+      "bytes": 73204,
+      "sha256": "af510a538a2d6dcfe4c05c72fad9d0ab97234839dae1ba497190840500004f08"
+    },
+    {
+      "path": "/v/fb5ac8580acc391160ab/cq/cq-laojundong-original/assets/models/village-buddha-preview.glb",
+      "bytes": 55300,
+      "sha256": "fb5ac8580acc391160aba315a0c91fa5c3400a8f004863f61880d45434996377"
+    },
+    {
+      "path": "/v/5ebfdc78608356feb16a/cq/cq-laojundong-original/assets/models/village-mahastamaprapta-preview.glb",
+      "bytes": 74184,
+      "sha256": "5ebfdc78608356feb16a82e7aed4bde77861dc73e8ad976e16cdf02b632f14da"
+    },
+    {
+      "path": "/v/a145d0dab14268486f9d/cq/cq-laojundong-original/assets/parameters/地面细纹_terrain_128x128_rgba8.bin",
+      "bytes": 65536,
+      "sha256": "a145d0dab14268486f9d624f5fa0e51b7e5e1d4d836d27c1ab21063ce659ccb5"
+    },
+    {
+      "path": "/v/3c42a7a77d93121c5fdc/cq/cq-laojundong-original/assets/parameters/地面覆盖图_terrain_512x512_rgba8.bin",
+      "bytes": 1048576,
+      "sha256": "3c42a7a77d93121c5fdc9fb2da48b51cdd62016e3ae5bca64ff5b083940cc120"
+    },
+    {
+      "path": "/v/dab24d1cdc4ecec99876/cq/cq-laojundong-original/assets/parameters/环境贴图_PMREM_cubeUV_768x1024_halffloat_rgba.bin",
+      "bytes": 6291456,
+      "sha256": "dab24d1cdc4ecec99876d3087baf3d6e2c269f409661ec959f4a613360d5e653"
+    },
+    {
+      "path": "/v/cc617011b374edec1449/cq/cq-laojundong-original/assets/parameters/背景天空_equirect.png",
+      "bytes": 45465,
+      "sha256": "cc617011b374edec1449e3961b2888dc5c042cd875a94e79dda72b71a1a6589d"
+    },
+    {
+      "path": "/v/118cd34969c3535f0c7c/cq/cq-laojundong-original/assets/site/bell-pagoda.bin",
+      "bytes": 225856,
+      "sha256": "118cd34969c3535f0c7cdff45b8409df88db6f4e78bf1364eb3c637cd2efb61f"
+    },
+    {
+      "path": "/v/ee48b465ff588270680e/cq/cq-laojundong-original/assets/site/bell-pagoda.gltf",
+      "bytes": 41131,
+      "sha256": "ee48b465ff588270680e432eb887e538b05e325a829617eed744b4754b704cd4"
+    },
+    {
+      "path": "/v/f039bb9757249ce934d1/cq/cq-laojundong-original/assets/site/far-terrain.bin",
+      "bytes": 2060480,
+      "sha256": "f039bb9757249ce934d183cbcbf057f01af6cb826853489111631fc805baa5db"
+    },
+    {
+      "path": "/v/73f138052092414d13c5/cq/cq-laojundong-original/assets/site/far-terrain.gltf",
+      "bytes": 361426,
+      "sha256": "73f138052092414d13c5a7d9e8f301b38b6e32236151508a8b344d76a6c7b925"
+    },
+    {
+      "path": "/v/536fc8e0280142ad3ddb/cq/cq-laojundong-original/assets/site/gate-approach.bin",
+      "bytes": 162552,
+      "sha256": "536fc8e0280142ad3ddb15115c44fd1c6640c735f6cffedcf7c515e51479f120"
+    },
+    {
+      "path": "/v/470ca90f23409b5bbe45/cq/cq-laojundong-original/assets/site/gate-approach.gltf",
+      "bytes": 73391,
+      "sha256": "470ca90f23409b5bbe45e104202d76d3a44625cff9ac01da8b772d7d468e531c"
+    },
+    {
+      "path": "/v/a7289639df4a39302743/cq/cq-laojundong-original/assets/site/ground.bin",
+      "bytes": 219152,
+      "sha256": "a7289639df4a39302743aef58a937c4e9e3b973ef13cf184f3ff9d9a489f17d5"
+    },
+    {
+      "path": "/v/a962963ac1d4ec96cb7c/cq/cq-laojundong-original/assets/site/ground.gltf",
+      "bytes": 234885,
+      "sha256": "a962963ac1d4ec96cb7c41d598e4119cec8fcc7060c1dce5201de5547ba5b4ff"
+    },
+    {
+      "path": "/v/82dd81c4f8c832cc7160/cq/cq-laojundong-original/assets/site/hall-interior.bin",
+      "bytes": 458100,
+      "sha256": "82dd81c4f8c832cc7160d0b5062bf8200a2a6cfd9a27cdd3411185086230efc7"
+    },
+    {
+      "path": "/v/535276917fe455c168c5/cq/cq-laojundong-original/assets/site/hall-interior.gltf",
+      "bytes": 89381,
+      "sha256": "535276917fe455c168c57d6d6795ced7eacc27288a6a4e86ac5912261ae4a36b"
+    },
+    {
+      "path": "/v/47780ffb554905051a17/cq/cq-laojundong-original/assets/site/hall-shell.bin",
+      "bytes": 3121624,
+      "sha256": "47780ffb554905051a17e8115f2a85f30e6bcdfb789e5327389af9913075d5c0"
+    },
+    {
+      "path": "/v/41020b2e0ffc511b1b5e/cq/cq-laojundong-original/assets/site/hall-shell.gltf",
+      "bytes": 166290,
+      "sha256": "41020b2e0ffc511b1b5ef3b0644ea34d649900e391fb0194f038c96a06c09b72"
+    },
+    {
+      "path": "/v/6f1ae17fc831f8642395/cq/cq-laojundong-original/assets/site/residents.bin",
+      "bytes": 1251784,
+      "sha256": "6f1ae17fc831f864239580d569bcad7fd17bbdc06695c22ec61afd2bd8f894ae"
+    },
+    {
+      "path": "/v/866e8e2040b8369c9da9/cq/cq-laojundong-original/assets/site/residents.gltf",
+      "bytes": 55046,
+      "sha256": "866e8e2040b8369c9da9f9cda9cfae10d1bfe8d748a814493191c607a646aa2d"
+    },
+    {
+      "path": "/v/bf0650c6eafe37f47f82/cq/cq-laojundong-original/assets/site/terrain.bin",
+      "bytes": 76316,
+      "sha256": "bf0650c6eafe37f47f8221cab62a9049104eabd795df383464ccd98579f85375"
+    },
+    {
+      "path": "/v/52b126e07a7070d287f0/cq/cq-laojundong-original/assets/site/terrain.gltf",
+      "bytes": 5259,
+      "sha256": "52b126e07a7070d287f0cd35dd6fc5b8c0542ad25b14eca7f769a8bdf83c3c27"
+    },
+    {
+      "path": "/v/7e5cac9655c1564ab2f1/cq/cq-laojundong-original/assets/site/trees.bin",
+      "bytes": 10761204,
+      "sha256": "7e5cac9655c1564ab2f13c3bbb901c60d4ae449435927210132beba5759a0475"
+    },
+    {
+      "path": "/v/49114ee2d426c2952206/cq/cq-laojundong-original/assets/site/trees.gltf",
+      "bytes": 929497,
+      "sha256": "49114ee2d426c2952206a2b366af165ea6b53f9f2fe6a6790c89ed032862836f"
+    },
+    {
+      "path": "/v/b83e07cf1e8d49d154e0/cq/cq-laojundong-original/assets/site/village.bin",
+      "bytes": 4089156,
+      "sha256": "b83e07cf1e8d49d154e09cd45cde2ae60670526aa7bbd7e588c33f35019fc7bb"
+    },
+    {
+      "path": "/v/2bd4d488b087d4ad49e4/cq/cq-laojundong-original/assets/site/village.gltf",
+      "bytes": 1116520,
+      "sha256": "2bd4d488b087d4ad49e40331b6e4b6f9372743365eede3ee118e1948d34e6cc6"
+    },
+    {
+      "path": "/v/63abf73953b42920cbce/cq/cq-laojundong-original/assets/site/water.bin",
+      "bytes": 492740,
+      "sha256": "63abf73953b42920cbcea990ffb6c85ca6128fa7b7734c7b100aec536d0c1779"
+    },
+    {
+      "path": "/v/41c573a0f0b41fc2ca86/cq/cq-laojundong-original/assets/site/water.gltf",
+      "bytes": 251557,
+      "sha256": "41c573a0f0b41fc2ca86a11a316f95fecc1fd23702685e2a78431b762069fa6a"
+    },
+    {
+      "path": "/v/a5ace9776a6b65792661/cq/cq-laojundong-original/assets/site/贴图/01831d14f5021674.webp",
+      "bytes": 1762,
+      "sha256": "a5ace9776a6b65792661332d9759854907943e1c7e11b9d2a855ecc95751cac2"
+    },
+    {
+      "path": "/v/063b4da0ac597bd529f0/cq/cq-laojundong-original/assets/site/贴图/045fed9374f32c0b.webp",
+      "bytes": 2804,
+      "sha256": "063b4da0ac597bd529f03c6d662bc09a5a795d9cf0731818cd2ffe89a3ea5d2f"
+    },
+    {
+      "path": "/v/c02962630cc32c9813cc/cq/cq-laojundong-original/assets/site/贴图/0894354e1065fa7c.webp",
+      "bytes": 320,
+      "sha256": "c02962630cc32c9813cc6cca65ddc9404a6bb7b6c057b764ba162805b27faccd"
+    },
+    {
+      "path": "/v/f3c7bdbefe33e3629788/cq/cq-laojundong-original/assets/site/贴图/0a1cfcb21cd1a269.webp",
+      "bytes": 15472,
+      "sha256": "f3c7bdbefe33e36297880dd89066afe6a1cc25fd2594c510106f395d9e919370"
+    },
+    {
+      "path": "/v/9514e405343d673bf4a8/cq/cq-laojundong-original/assets/site/贴图/0b4d0318fd5db16e.webp",
+      "bytes": 12012,
+      "sha256": "9514e405343d673bf4a84407034db4beccd01dd32a7882eb6cd530a6792d5066"
+    },
+    {
+      "path": "/v/d83a10e2492bba15a752/cq/cq-laojundong-original/assets/site/贴图/0bc4e28e3ab009a5.webp",
+      "bytes": 56228,
+      "sha256": "d83a10e2492bba15a7522bb77543eb9d8eb3f850f1570281d097a7efe0b60895"
+    },
+    {
+      "path": "/v/cfcad6a15aef9c8134a6/cq/cq-laojundong-original/assets/site/贴图/0ca98f030b092990.webp",
+      "bytes": 5786,
+      "sha256": "cfcad6a15aef9c8134a6dda923d88877801c86706088165d50e3e75dd1bb4194"
+    },
+    {
+      "path": "/v/dca8460d3a9d5e800cc2/cq/cq-laojundong-original/assets/site/贴图/113758b733967806.webp",
+      "bytes": 1674,
+      "sha256": "dca8460d3a9d5e800cc2356bb650e80274b290d681ceb373edf742cd50bb1f3e"
+    },
+    {
+      "path": "/v/a42110357b5b68d98710/cq/cq-laojundong-original/assets/site/贴图/1408267c2fe86d50.webp",
+      "bytes": 2864,
+      "sha256": "a42110357b5b68d98710e4af4dfbab86a8f3abd6181de0a7ad577ef7663bcc5a"
+    },
+    {
+      "path": "/v/c7aeee15e2ce02f8a6e1/cq/cq-laojundong-original/assets/site/贴图/1a9281bb064a1408.webp",
+      "bytes": 14840,
+      "sha256": "c7aeee15e2ce02f8a6e105ccb8b6d6e56c60a4fcf3274c7ab3d96955f584812a"
+    },
+    {
+      "path": "/v/b76e053c035b028c28a4/cq/cq-laojundong-original/assets/site/贴图/1aa508a4206ca5f3.webp",
+      "bytes": 134,
+      "sha256": "b76e053c035b028c28a488f0d384c651373d907b6e0d9741724a35749d995aee"
+    },
+    {
+      "path": "/v/e7d46ec7a6c786b61eee/cq/cq-laojundong-original/assets/site/贴图/1bdceed05969032f.webp",
+      "bytes": 2352,
+      "sha256": "e7d46ec7a6c786b61eee8e54e6c99f4978ebdc6b4fd2822b0068329e1242acec"
+    },
+    {
+      "path": "/v/5903a72761a02dd17949/cq/cq-laojundong-original/assets/site/贴图/25bd8b5e131e8672.webp",
+      "bytes": 24096,
+      "sha256": "5903a72761a02dd17949fbe7a4b21ae08601ccea440e3a07896e268b92c7d1ab"
+    },
+    {
+      "path": "/v/6191a0a3c2161d914e8a/cq/cq-laojundong-original/assets/site/贴图/2bdec3589d6d56c1.webp",
+      "bytes": 25696,
+      "sha256": "6191a0a3c2161d914e8ac2db575df89718141b8e096eabde2f6f387b9713fbd9"
+    },
+    {
+      "path": "/v/1442d7aa9e70409ce852/cq/cq-laojundong-original/assets/site/贴图/30641714dcda1958.webp",
+      "bytes": 23136,
+      "sha256": "1442d7aa9e70409ce852434d77c241edbd4949360d16e58786b5d32c9f6c3541"
+    },
+    {
+      "path": "/v/b966b6163a6c91e11645/cq/cq-laojundong-original/assets/site/贴图/332d9ca76a9ace59.webp",
+      "bytes": 20556,
+      "sha256": "b966b6163a6c91e11645629b6e6e9846ad91f0f1b3fd0da7c9ad07d3d68b9c70"
+    },
+    {
+      "path": "/v/2bbc263b4de47ac93f0c/cq/cq-laojundong-original/assets/site/贴图/3ab76cec96f8ff3b.webp",
+      "bytes": 428,
+      "sha256": "2bbc263b4de47ac93f0c07214f18b5e32fbe6032bb49db64b958765c6fd0356f"
+    },
+    {
+      "path": "/v/24611619a5dcab95c772/cq/cq-laojundong-original/assets/site/贴图/3e8207b578cadfd2.webp",
+      "bytes": 12910,
+      "sha256": "24611619a5dcab95c772e5bf1f5f70cec7c370cbcfc5feb143a788e15182e6e3"
+    },
+    {
+      "path": "/v/cd3742609abd3da2cc96/cq/cq-laojundong-original/assets/site/贴图/3f322d283e3ae652.webp",
+      "bytes": 19864,
+      "sha256": "cd3742609abd3da2cc96b34a57467af2115c65e43fae138577760342a12ae6ca"
+    },
+    {
+      "path": "/v/f70cbb238319e6217ff1/cq/cq-laojundong-original/assets/site/贴图/3f66110941bacd13.webp",
+      "bytes": 18534,
+      "sha256": "f70cbb238319e6217ff121037d302e45c4c2556f5f20320be91ab660e7fef4a7"
+    },
+    {
+      "path": "/v/0c57fb2781edf3c7b121/cq/cq-laojundong-original/assets/site/贴图/403c0086c12299db.webp",
+      "bytes": 16832,
+      "sha256": "0c57fb2781edf3c7b1214c6dcf86f000ca58171b0a9a47bfb9664eea60a73d48"
+    },
+    {
+      "path": "/v/e4654b7ed133de2a5a83/cq/cq-laojundong-original/assets/site/贴图/47ee479921c3f1eb.webp",
+      "bytes": 68946,
+      "sha256": "e4654b7ed133de2a5a83e7a330916c8122678a9abcb3ed723866299d6f678da2"
+    },
+    {
+      "path": "/v/c7462ebc36bc4515ac5c/cq/cq-laojundong-original/assets/site/贴图/48a40f96c1afac04.webp",
+      "bytes": 2178,
+      "sha256": "c7462ebc36bc4515ac5c067df4a95bfe518265ee54f44e163533911bbc251872"
+    },
+    {
+      "path": "/v/337c28a3fe3e491b803f/cq/cq-laojundong-original/assets/site/贴图/4b3097862173b132.webp",
+      "bytes": 1422,
+      "sha256": "337c28a3fe3e491b803f7a10d077827442d1ca0edd7493e5931102a36fd530dc"
+    },
+    {
+      "path": "/v/6216a76e7c2166ea0aac/cq/cq-laojundong-original/assets/site/贴图/4f1221a0e7f3be05.webp",
+      "bytes": 334,
+      "sha256": "6216a76e7c2166ea0aac94dd580efef1b330e2ee324fcaeee33357853be650d7"
+    },
+    {
+      "path": "/v/c24cd043d467ccdfd8e7/cq/cq-laojundong-original/assets/site/贴图/500cbb6e3f2d9a75.webp",
+      "bytes": 90,
+      "sha256": "c24cd043d467ccdfd8e7e131d7b78e3feadfaed9dc1f3eb3a3967da6aacc698d"
+    },
+    {
+      "path": "/v/a648863f938e19f91e52/cq/cq-laojundong-original/assets/site/贴图/5b9ca048a99a7fcc.webp",
+      "bytes": 4268,
+      "sha256": "a648863f938e19f91e5270835ce58ff44b37ea0c5928230af4fd6712480000ae"
+    },
+    {
+      "path": "/v/004cd169d1f7344aaf42/cq/cq-laojundong-original/assets/site/贴图/5f202ab23bd972c6.webp",
+      "bytes": 20304,
+      "sha256": "004cd169d1f7344aaf421e85cc68e3b94a9352c363133a82a9353a0d7c23d8d6"
+    },
+    {
+      "path": "/v/3c542c2230e7bd300aee/cq/cq-laojundong-original/assets/site/贴图/610d8c2e2743f7f1.webp",
+      "bytes": 1996,
+      "sha256": "3c542c2230e7bd300aeee728d6f2b95f99951e8e7b2a2793b0f1ff231fd1a1ca"
+    },
+    {
+      "path": "/v/50d2470bb2943d06f039/cq/cq-laojundong-original/assets/site/贴图/693cb52fa8bc44e2.webp",
+      "bytes": 2930,
+      "sha256": "50d2470bb2943d06f0394adc8438db6aeb90eb9ffa7366cd69e0d85e3a9abefd"
+    },
+    {
+      "path": "/v/7cf405b24a2e1c4061d7/cq/cq-laojundong-original/assets/site/贴图/69864aa82a8916cd.webp",
+      "bytes": 19046,
+      "sha256": "7cf405b24a2e1c4061d70609a788fdd37b0790aa8e4c8bb2dad35ce64ce8ea68"
+    },
+    {
+      "path": "/v/3f5ab269e25a4da05157/cq/cq-laojundong-original/assets/site/贴图/69cece0feed37418.webp",
+      "bytes": 2892,
+      "sha256": "3f5ab269e25a4da0515720e9914177d9a4fac07e21c652ed51d284857975472c"
+    },
+    {
+      "path": "/v/7293e58ddf618fe6071f/cq/cq-laojundong-original/assets/site/贴图/6a5f03c001b7a6d8.webp",
+      "bytes": 11138,
+      "sha256": "7293e58ddf618fe6071f29b4cfe9000965b4b43f38af6355cf1d62fe23d6032d"
+    },
+    {
+      "path": "/v/3b458617e04addfaf401/cq/cq-laojundong-original/assets/site/贴图/714090d6c9ebace2.webp",
+      "bytes": 50884,
+      "sha256": "3b458617e04addfaf401271154ef12b36c2e1fac5ffe193fc82519f95b8ac734"
+    },
+    {
+      "path": "/v/86d2281a59d88f793f0c/cq/cq-laojundong-original/assets/site/贴图/7659c66c84c56b05.webp",
+      "bytes": 19012,
+      "sha256": "86d2281a59d88f793f0c2fc0b39b1b1061a81d4a4535b19d7e1d61d5193a192e"
+    },
+    {
+      "path": "/v/c28b6bbcb299154aebbf/cq/cq-laojundong-original/assets/site/贴图/7f862c492f2e6c14.webp",
+      "bytes": 2270,
+      "sha256": "c28b6bbcb299154aebbfad3a9ca89c118936434fb0352bb779f56b0c6aaed092"
+    },
+    {
+      "path": "/v/4cc9ca4e3ec10e5c4102/cq/cq-laojundong-original/assets/site/贴图/802b714018a58a4f.webp",
+      "bytes": 95116,
+      "sha256": "4cc9ca4e3ec10e5c4102ab8a912609b5a07dacadebd20e3444ae10a78d684a29"
+    },
+    {
+      "path": "/v/04c551ee1c014dba9727/cq/cq-laojundong-original/assets/site/贴图/824ae84e8c37aee6.webp",
+      "bytes": 56856,
+      "sha256": "04c551ee1c014dba9727e9d6157071856c883eb3a24d4a4bafa24a22761eff80"
+    },
+    {
+      "path": "/v/817682771528ed14dedc/cq/cq-laojundong-original/assets/site/贴图/87eadf87209ad12f.webp",
+      "bytes": 19160,
+      "sha256": "817682771528ed14dedc14207e825ae7c21f987a1d9cd6288b274232efc1011f"
+    },
+    {
+      "path": "/v/7040e247f676c000d49e/cq/cq-laojundong-original/assets/site/贴图/8cc3870e48dbd168.webp",
+      "bytes": 1628,
+      "sha256": "7040e247f676c000d49ec6a6b95e8e6b0a5d8a690bf45a6baebd17346f399333"
+    },
+    {
+      "path": "/v/8baaaf1ed7e26e4608e1/cq/cq-laojundong-original/assets/site/贴图/98615eb099dab863.webp",
+      "bytes": 38828,
+      "sha256": "8baaaf1ed7e26e4608e14ed8555261d52493c78b9769a2d738b58897e5284c5a"
+    },
+    {
+      "path": "/v/7a24dc612e858bb817e5/cq/cq-laojundong-original/assets/site/贴图/986c2790b16e29aa.webp",
+      "bytes": 10566,
+      "sha256": "7a24dc612e858bb817e5a6be1afb19a5c144281809164e06a40512e826d36cbd"
+    },
+    {
+      "path": "/v/29e1c2496888a7c81a41/cq/cq-laojundong-original/assets/site/贴图/9a25efe2e91b749c.webp",
+      "bytes": 1948,
+      "sha256": "29e1c2496888a7c81a41d09311543fc136614b6e963ba739a77cc9d285904d36"
+    },
+    {
+      "path": "/v/98f04a554c5dbc896bf1/cq/cq-laojundong-original/assets/site/贴图/9c0ab75d1c9139cc.webp",
+      "bytes": 1340,
+      "sha256": "98f04a554c5dbc896bf1fbcdc342057af73ca9cad866e0bae0c0ab67c663904e"
+    },
+    {
+      "path": "/v/da58d2c232f7750328ed/cq/cq-laojundong-original/assets/site/贴图/9d99c230fec9719f.webp",
+      "bytes": 4116,
+      "sha256": "da58d2c232f7750328edc7c40cd0a88399a18b42eb3a0e4f12e583eb1cd88c1e"
+    },
+    {
+      "path": "/v/e3d05469e018e2fb5b83/cq/cq-laojundong-original/assets/site/贴图/9f41ce0fdd10c06e.webp",
+      "bytes": 830,
+      "sha256": "e3d05469e018e2fb5b835638b8cb79ebe0a08d988527d3d735ed47963f2b47fb"
+    },
+    {
+      "path": "/v/1faaf6437f3bb864b92d/cq/cq-laojundong-original/assets/site/贴图/a046585e4393debe.webp",
+      "bytes": 24020,
+      "sha256": "1faaf6437f3bb864b92de18c0304cc7770f230e9d02cb37b773fbb72e529c089"
+    },
+    {
+      "path": "/v/c62a9a4b1e6a53671d99/cq/cq-laojundong-original/assets/site/贴图/a2e8cdd9dc0fcde7.webp",
+      "bytes": 1124,
+      "sha256": "c62a9a4b1e6a53671d9988afc93665e3074380b2b117ebc3923deffcb29edda8"
+    },
+    {
+      "path": "/v/3a012437d3546c7b875b/cq/cq-laojundong-original/assets/site/贴图/a42b1e8df33b3685.webp",
+      "bytes": 71900,
+      "sha256": "3a012437d3546c7b875b473ca0497a2a33c58072bbd682108352d29402bbf0c5"
+    },
+    {
+      "path": "/v/8c4f23c9e1a552dd4a4a/cq/cq-laojundong-original/assets/site/贴图/a6e4a9a03552d6f2.webp",
+      "bytes": 17394,
+      "sha256": "8c4f23c9e1a552dd4a4adc4e44288d2a6be32817709fd69284b3872d3e1864ff"
+    },
+    {
+      "path": "/v/cac5a65003c2d4fe713c/cq/cq-laojundong-original/assets/site/贴图/a96c3160bc4834e7.webp",
+      "bytes": 36934,
+      "sha256": "cac5a65003c2d4fe713cba9705cda3e8b4d2e81ed6dc172dcc43a69d703b4e71"
+    },
+    {
+      "path": "/v/ddd22fba2a2de9f6c038/cq/cq-laojundong-original/assets/site/贴图/ab84d4f03750ab9c.webp",
+      "bytes": 17634,
+      "sha256": "ddd22fba2a2de9f6c038a26b4631385debd07adbedfbc96b026114eb1a270ce1"
+    },
+    {
+      "path": "/v/268277f7a79c6fa668a4/cq/cq-laojundong-original/assets/site/贴图/ad88c86f09b7f41a.webp",
+      "bytes": 2058,
+      "sha256": "268277f7a79c6fa668a4775f71b54d312b3a4d072d505ae71406a857ab5bdd61"
+    },
+    {
+      "path": "/v/f2eac2d3ab0d0907c8e2/cq/cq-laojundong-original/assets/site/贴图/b14e0190d05a0828.webp",
+      "bytes": 12780,
+      "sha256": "f2eac2d3ab0d0907c8e236862839c134181c992a941fab1d488f5833f3102695"
+    },
+    {
+      "path": "/v/226161ab496935bd62dd/cq/cq-laojundong-original/assets/site/贴图/b339d6b0944a55e8.webp",
+      "bytes": 28334,
+      "sha256": "226161ab496935bd62dddf588852056b5db90d2015dd36bfed033d6f89225d73"
+    },
+    {
+      "path": "/v/e2aa1557f2891381d3b3/cq/cq-laojundong-original/assets/site/贴图/b52cef3605b0edf9.webp",
+      "bytes": 86714,
+      "sha256": "e2aa1557f2891381d3b3aa2bd7c9606f33d28046068bdceedfce04d5c8b4487d"
+    },
+    {
+      "path": "/v/80b27927ad8f0fc1053c/cq/cq-laojundong-original/assets/site/贴图/b828a61595fedfc7.webp",
+      "bytes": 13264,
+      "sha256": "80b27927ad8f0fc1053c1bb4fd87f7b650c427bf88e06022ee9068869b209979"
+    },
+    {
+      "path": "/v/7263b85f4c55d0306dcf/cq/cq-laojundong-original/assets/site/贴图/b908333d4e5339d0.webp",
+      "bytes": 37504,
+      "sha256": "7263b85f4c55d0306dcf59782ce4e46c95de965ccea109ea6791b00c5f0ee6b2"
+    },
+    {
+      "path": "/v/bcc5be635db5c92ae698/cq/cq-laojundong-original/assets/site/贴图/bb7158b636341449.webp",
+      "bytes": 3638,
+      "sha256": "bcc5be635db5c92ae6981b36c1d6778245162f8dd81a7fb62587582d7b130d1b"
+    },
+    {
+      "path": "/v/6b179e6b3182e8576e77/cq/cq-laojundong-original/assets/site/贴图/bbce9b9684e857d3.webp",
+      "bytes": 12604,
+      "sha256": "6b179e6b3182e8576e7753b6676cb087b6d1033d34fad351e2f4b5e33920ca68"
+    },
+    {
+      "path": "/v/6855d8ed954bc8e6483a/cq/cq-laojundong-original/assets/site/贴图/bc15fe5c7dddf312.webp",
+      "bytes": 129704,
+      "sha256": "6855d8ed954bc8e6483a2050078479128775c1c7e3197b1a76faf3c5c9ceb620"
+    },
+    {
+      "path": "/v/619721811a35f93d9559/cq/cq-laojundong-original/assets/site/贴图/bdd131f49e1ed9df.webp",
+      "bytes": 107324,
+      "sha256": "619721811a35f93d9559377b36fb1b180c84317cc7eefe71eb7f3a3e0d0e1cc3"
+    },
+    {
+      "path": "/v/fb7891d6a7704af0066e/cq/cq-laojundong-original/assets/site/贴图/c06cc070b8f8e095.webp",
+      "bytes": 1184,
+      "sha256": "fb7891d6a7704af0066eefabe14ac367993a741b3f594bbc106d46c88884c70e"
+    },
+    {
+      "path": "/v/011c2df437e12bfadb68/cq/cq-laojundong-original/assets/site/贴图/c650eb067cf86bc7.webp",
+      "bytes": 148636,
+      "sha256": "011c2df437e12bfadb68eb2d8836ed49b671d6b3c9b37812c24091932ecc7d29"
+    },
+    {
+      "path": "/v/757708ea31bdaa4e9177/cq/cq-laojundong-original/assets/site/贴图/cbfda0cd1772adcc.webp",
+      "bytes": 4930,
+      "sha256": "757708ea31bdaa4e91773f551a32908bfa6cd7362a4899c4fddc613f33cb4cd2"
+    },
+    {
+      "path": "/v/bdd5f0e58a3cb85a5ca0/cq/cq-laojundong-original/assets/site/贴图/cd0e7b30d3c7ee51.webp",
+      "bytes": 16136,
+      "sha256": "bdd5f0e58a3cb85a5ca02be72f87a488843e2a6e4aab2ae00cd474208d4db956"
+    },
+    {
+      "path": "/v/a109bcb8ec5c516cb823/cq/cq-laojundong-original/assets/site/贴图/ce5a479914eb599f.webp",
+      "bytes": 9926,
+      "sha256": "a109bcb8ec5c516cb823fadbb5502e82b2ce608d94879846ea810e6c65c87530"
+    },
+    {
+      "path": "/v/ec0208fd8e6ae7ac12f6/cq/cq-laojundong-original/assets/site/贴图/cefb0de2856f29d4.webp",
+      "bytes": 9060,
+      "sha256": "ec0208fd8e6ae7ac12f684ce2d7b1e5f1880b7f585d48b452b0ed5798655a911"
+    },
+    {
+      "path": "/v/88f856b69b65815aa2a7/cq/cq-laojundong-original/assets/site/贴图/d11c8bfdb836b0ea.webp",
+      "bytes": 19064,
+      "sha256": "88f856b69b65815aa2a78f2af0dda1d7cec943f45ee4cf5efa5330c612a0defe"
+    },
+    {
+      "path": "/v/365131509413e4db5444/cq/cq-laojundong-original/assets/site/贴图/d2b9a7ffe6a3dfe5.webp",
+      "bytes": 3096,
+      "sha256": "365131509413e4db54445b9d0ea1bb3b89fcf2ce6ab69a893e9b2a60fa8f327d"
+    },
+    {
+      "path": "/v/dfe791a2e3bb06f3b3f6/cq/cq-laojundong-original/assets/site/贴图/d31fc40e4ab5c89d.webp",
+      "bytes": 43574,
+      "sha256": "dfe791a2e3bb06f3b3f6e0b75a16bc5a5bbf6263d476ab2d1973d2ab753a935b"
+    },
+    {
+      "path": "/v/b9803730688ee187d21b/cq/cq-laojundong-original/assets/site/贴图/d6a101533fc911ff.webp",
+      "bytes": 4314,
+      "sha256": "b9803730688ee187d21bcd680f3c8450b72c5ee189495f48bd4a3de6b186bc2d"
+    },
+    {
+      "path": "/v/22c8c49eecea1834da36/cq/cq-laojundong-original/assets/site/贴图/d79c8a841d244e1c.webp",
+      "bytes": 28446,
+      "sha256": "22c8c49eecea1834da3692aeed3d39b521f56b9b1ef34c240f859934b8edc487"
+    },
+    {
+      "path": "/v/d430909f9aca34fa1f39/cq/cq-laojundong-original/assets/site/贴图/df17266ecdec6615.webp",
+      "bytes": 36,
+      "sha256": "d430909f9aca34fa1f3943f69eac50e380a587fcb811be3a19e20dbbcfbebddb"
+    },
+    {
+      "path": "/v/d5a90e280fa040b63b53/cq/cq-laojundong-original/assets/site/贴图/e04d63134e83792f.webp",
+      "bytes": 37302,
+      "sha256": "d5a90e280fa040b63b53de6b082c27f38b388f0e688f5202c49b730c777bd900"
+    },
+    {
+      "path": "/v/1a197e8abf23ea03c645/cq/cq-laojundong-original/assets/site/贴图/e702e737e2dbee13.webp",
+      "bytes": 1516,
+      "sha256": "1a197e8abf23ea03c645a3be79771b44e6ff09fe95ee67101b63fef9b58e289c"
+    },
+    {
+      "path": "/v/51abb44490c104807c94/cq/cq-laojundong-original/assets/site/贴图/e70efc7b6779ea8f.webp",
+      "bytes": 23058,
+      "sha256": "51abb44490c104807c949f3922fba14edb5e554c80ffdf434d496bf6958164f9"
+    },
+    {
+      "path": "/v/7790abe2a4d1b5b6867a/cq/cq-laojundong-original/assets/site/贴图/ea4f73ecb61a0cee.webp",
+      "bytes": 4832,
+      "sha256": "7790abe2a4d1b5b6867a66e76cbf094cbd57820cd9ae0712b73523522f9894af"
+    },
+    {
+      "path": "/v/97a5941211d2c9aafade/cq/cq-laojundong-original/assets/site/贴图/ead8127727899bb6.webp",
+      "bytes": 18650,
+      "sha256": "97a5941211d2c9aafadecd7a3a5d858715a1381d1e7d0ecf3bd97e354b98f376"
+    },
+    {
+      "path": "/v/7fa9d0fcdff699759944/cq/cq-laojundong-original/assets/site/贴图/ef48d965bb60d872.webp",
+      "bytes": 4446,
+      "sha256": "7fa9d0fcdff699759944399e3c6e928f586872d49f8daafb812f20e815e5523d"
+    },
+    {
+      "path": "/v/a12112c1741c1fe6d06e/cq/cq-laojundong-original/assets/site/贴图/ef7eae8bc0dccfb9.webp",
+      "bytes": 150,
+      "sha256": "a12112c1741c1fe6d06ee3fa0a7002ed91272de5189b1c5b468908ec70ebdc96"
+    },
+    {
+      "path": "/v/3fbbd5b7a8ded75416b3/cq/cq-laojundong-original/assets/site/贴图/f38cb6e8fe0f6dc9.webp",
+      "bytes": 392,
+      "sha256": "3fbbd5b7a8ded75416b30e526e31a403a3e08d3186e266c6d9db737c01a30599"
+    },
+    {
+      "path": "/v/da3a8dab25109ddbd614/cq/cq-laojundong-original/assets/site/贴图/f50d34be8bb46c1d.webp",
+      "bytes": 2220,
+      "sha256": "da3a8dab25109ddbd61412db2f4f10a27c98191b8e9a87e055ede60f2f8766c8"
+    },
+    {
+      "path": "/v/8c7478f9f6133fba79aa/cq/cq-laojundong-original/assets/site/贴图/f671fe479e723181.webp",
+      "bytes": 334,
+      "sha256": "8c7478f9f6133fba79aa87b36489c4cc552a04866c3749c0c03bf7c81f435ff2"
+    },
+    {
+      "path": "/v/80e7c4c4fafa350a2d05/cq/cq-laojundong-original/assets/site/贴图/f6a4147d4a649f6b.webp",
+      "bytes": 1012,
+      "sha256": "80e7c4c4fafa350a2d054ccb242384cb371cbe9524f7573dd46f6b4943952954"
+    },
+    {
+      "path": "/v/984c61f5405725a460ba/cq/cq-laojundong-original/assets/site/贴图/f7ba77f5ee559c02.webp",
+      "bytes": 4054,
+      "sha256": "984c61f5405725a460ba1872fa6b96496c6fef7d0d4a15a71976be7e63c90d0c"
+    },
+    {
+      "path": "/v/eeb423592c2b34bbb04c/cq/cq-laojundong-original/assets/site/贴图/fb16dc693907453b.webp",
+      "bytes": 1386,
+      "sha256": "eeb423592c2b34bbb04c5f3e7d42b2ca57def5d54faebf5f2acdb27c0ff3978b"
+    },
+    {
+      "path": "/v/27b130979dedad91605a/cq/cq-laojundong-original/assets/site/贴图/fc95ad99f4fa33e0.webp",
+      "bytes": 350,
+      "sha256": "27b130979dedad91605a3dac166ac1625e4c2e0f815e3bbfed341f5f4bd8ebd4"
+    },
+    {
+      "path": "/v/9f4c4cd2151b82e64245/cq/cq-laojundong-original/assets/site/贴图/fef1e5ea17c9918e.webp",
+      "bytes": 41464,
+      "sha256": "9f4c4cd2151b82e6424589b49230f3f14605f8a65e17f76ccdc410237696fb18"
+    },
+    {
+      "path": "/v/298f59d76dd696b683d2/cq/cq-laojundong-original/assets/site/贴图/ffa31e080dbb4b41.webp",
+      "bytes": 88006,
+      "sha256": "298f59d76dd696b683d21545b69d74fd9d0c30923f201f7ce796445f874e485d"
+    },
+    {
+      "path": "/v/16896fc98b54bae55b16/cq/cq-laojundong-original/assets/预览件/avalokitesvara.glb",
+      "bytes": 39420,
+      "sha256": "16896fc98b54bae55b163c437ed0e9071dd99eefd92c15f962e2b4de61c29c15"
+    },
+    {
+      "path": "/v/4421ba5a719d27cf1433/cq/cq-laojundong-original/assets/预览件/buddha.glb",
+      "bytes": 36716,
+      "sha256": "4421ba5a719d27cf1433b1817455a95267b76fa9ac8bcacba7c740333b4c08aa"
+    },
+    {
+      "path": "/v/777da6f1dbcd192497d2/cq/cq-laojundong-original/assets/预览件/far-terrain.glb",
+      "bytes": 90376,
+      "sha256": "777da6f1dbcd192497d2d4b7a1dab2f7fd6e21b0e4a9c85ce7f0cdd0e17adf97"
+    },
+    {
+      "path": "/v/7cfdd84154fe2188327c/cq/cq-laojundong-original/assets/预览件/gongyang-cat.glb",
+      "bytes": 73676,
+      "sha256": "7cfdd84154fe2188327cb83a65e167934edc25324f0824f7f4e8b8917e2d2c4e"
+    },
+    {
+      "path": "/v/b16e40240eef121ee448/cq/cq-laojundong-original/assets/预览件/mahastamaprapta.glb",
+      "bytes": 42488,
+      "sha256": "b16e40240eef121ee448d645b4f19c516fbf4676d4059d55be7c5f0747b98b27"
+    },
+    {
+      "path": "/v/412ee0f42f3b7a6811f5/cq/cq-opening/assets/still-landscape.webp",
+      "bytes": 110826,
+      "sha256": "412ee0f42f3b7a6811f5f3080b920d174f1dd316fb4e29b972c3a4c809e4fc9b"
+    },
+    {
+      "path": "/v/c15f1123832142f4fd2c/cq/cq-opening/assets/still-portrait.webp",
+      "bytes": 41028,
+      "sha256": "c15f1123832142f4fd2cf86fda1c52f0b3eb592ad0d7d670ab5d2faedb674322"
+    },
+    {
+      "path": "/v/562cd79c31211ce866ba/cq/cq-support/assets/owner-card.png",
+      "bytes": 224198,
+      "sha256": "562cd79c31211ce866ba4222db4ddbc7d3376ba793b6368f81b4d40bcd4d6d26"
+    },
+    {
+      "path": "/v/25244b86860a271c87ee/cq/cq-support/assets/owner-portrait.webp",
+      "bytes": 24652,
+      "sha256": "25244b86860a271c87ee74f3b6de524368c8b882b341793e2af9f5ab657c1672"
+    },
+    {
+      "path": "/v/9f0277fd1a5a8291417d/cq/cq-support/assets/owner-qr.png",
+      "bytes": 185997,
+      "sha256": "9f0277fd1a5a8291417d9a546c83e9413dfffb2c5f733c449a8150588f66da8c"
+    },
+    {
+      "path": "/v/240ba384997530212f8d/cq/cq-support/assets/traveler-lantern.webp",
+      "bytes": 20542,
+      "sha256": "240ba384997530212f8dc16e9136e7791074c6aae70b5033179e71dc81dff200"
+    },
+    {
+      "path": "/v/140fc929e0f520f15655/cq/cq-tour/assets/city-icon.png",
+      "bytes": 11461,
+      "sha256": "140fc929e0f520f15655286186dd83c78bb0e4cccc89bb9493b366206fa4611d"
+    },
+    {
+      "path": "/v/b6339f0861a5e6101d02/cq/cq-tour/assets/loading-riverfront.webp",
+      "bytes": 25472,
+      "sha256": "b6339f0861a5e6101d02bb0e57902915b92208cb40e5eb7346e4b537f6cfd6b7"
+    },
+    {
+      "path": "/v/e60e30dafa71093524be/cq/cq-world/assets/balcony.webp",
+      "bytes": 125278,
+      "sha256": "e60e30dafa71093524bed5050f1f8727055031ed804137df6c018c13513e431e"
+    },
+    {
+      "path": "/v/beb39f3a51100fd2ffa9/cq/cq-world/assets/bench.glb",
+      "bytes": 16180,
+      "sha256": "beb39f3a51100fd2ffa98bc7b9e411dde700323caa7bfc33f5065f4f912a7daf"
+    },
+    {
+      "path": "/v/3004d4cab32431441dbc/cq/cq-world/assets/cliff.webp",
+      "bytes": 38522,
+      "sha256": "3004d4cab32431441dbcdd2fec571612975f9735eeda1617a3802c28a8336506"
+    },
+    {
+      "path": "/v/545be3c7d6f865d01404/cq/cq-world/assets/food-stall.glb",
+      "bytes": 18252,
+      "sha256": "545be3c7d6f865d0140494b6d5b527d27461ec4ffb5123c5d886aec68b24e287"
+    },
+    {
+      "path": "/v/6b3d321933531d4f8702/cq/cq-world/assets/noodles.glb",
+      "bytes": 9208,
+      "sha256": "6b3d321933531d4f870258ae7c2af6c26e27378efc40d80dcad986b4cfefab88"
+    },
+    {
+      "path": "/v/300e613033bef759b8f7/cq/cq-world/assets/paving.webp",
+      "bytes": 21188,
+      "sha256": "300e613033bef759b8f744266923aa348c0dea40bf5c7692f7edce34cb421542"
+    },
+    {
+      "path": "/v/f0d8a400616b70cfef04/cq/cq-world/assets/planter.glb",
+      "bytes": 21080,
+      "sha256": "f0d8a400616b70cfef048c6400eaa097fb4067dd813a1200a69404d72bdd3534"
+    },
+    {
+      "path": "/v/f4181d32570e3676de2d/cq/cq-world/assets/roof.webp",
+      "bytes": 44206,
+      "sha256": "f4181d32570e3676de2d93b015a395fc25584b5368f3edf5e20b5c43640949cb"
+    },
+    {
+      "path": "/v/267a48667b2d4592f88d/cq/cq-world/assets/shopfront.webp",
+      "bytes": 139394,
+      "sha256": "267a48667b2d4592f88d68e08c37d366879be877bb7677edd210f94918c8ddd0"
+    },
+    {
+      "path": "/v/f5723d278ed561f1aa75/cq/cq-world/assets/skewers.glb",
+      "bytes": 14796,
+      "sha256": "f5723d278ed561f1aa75185dbbaaa1200256eb0dd0f28991a57331a902fe98a3"
+    },
+    {
+      "path": "/v/f9a5ea544b18784da184/cq/cq-world/assets/timber.webp",
+      "bytes": 11128,
+      "sha256": "f9a5ea544b18784da18455b737d278bf3cad2e8dcb1ed76b6b75f4518d208c0d"
+    },
+    {
+      "path": "/v/94d64f1b35674cbb5a17/cq/cq-world/assets/tree-large.glb",
+      "bytes": 13992,
+      "sha256": "94d64f1b35674cbb5a17f45c3dde856ad7e5d6e2a8a4cbc17fe71f2de4f3b98d"
+    }
+  ]
+}

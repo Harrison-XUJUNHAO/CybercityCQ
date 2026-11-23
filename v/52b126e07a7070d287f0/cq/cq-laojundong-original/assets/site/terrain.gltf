@@ -1,0 +1,283 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v4.2.1",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 46632,
+      "normalized": false,
+      "byteOffset": 0,
+      "bufferView": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5122,
+      "count": 7937,
+      "max": [
+        32767,
+        3364,
+        32767
+      ],
+      "min": [
+        -32767,
+        -3364,
+        -32767
+      ],
+      "normalized": true,
+      "byteOffset": 0,
+      "bufferView": 1
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5121,
+      "count": 7937,
+      "normalized": true,
+      "byteOffset": 0,
+      "bufferView": 2
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5123,
+      "count": 7937,
+      "normalized": true,
+      "byteOffset": 0,
+      "bufferView": 3
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5120,
+      "count": 7937,
+      "normalized": true,
+      "byteOffset": 0,
+      "bufferView": 4
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 1,
+      "byteOffset": 0,
+      "byteLength": 93264,
+      "target": 34963,
+      "extensions": {
+        "EXT_meshopt_compression": {
+          "buffer": 0,
+          "byteOffset": 0,
+          "byteLength": 16472,
+          "mode": "TRIANGLES",
+          "byteStride": 2,
+          "count": 46632
+        }
+      }
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 93264,
+      "byteLength": 63496,
+      "target": 34962,
+      "byteStride": 8,
+      "extensions": {
+        "EXT_meshopt_compression": {
+          "buffer": 0,
+          "byteOffset": 16472,
+          "byteLength": 22870,
+          "mode": "ATTRIBUTES",
+          "byteStride": 8,
+          "count": 7937
+        }
+      }
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 156760,
+      "byteLength": 31748,
+      "target": 34962,
+      "byteStride": 4,
+      "extensions": {
+        "EXT_meshopt_compression": {
+          "buffer": 0,
+          "byteOffset": 39344,
+          "byteLength": 11793,
+          "mode": "ATTRIBUTES",
+          "byteStride": 4,
+          "count": 7937
+        }
+      }
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 188508,
+      "byteLength": 31748,
+      "target": 34962,
+      "byteStride": 4,
+      "extensions": {
+        "EXT_meshopt_compression": {
+          "buffer": 0,
+          "byteOffset": 51140,
+          "byteLength": 15827,
+          "mode": "ATTRIBUTES",
+          "byteStride": 4,
+          "count": 7937
+        }
+      }
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 220256,
+      "byteLength": 31748,
+      "target": 34962,
+      "byteStride": 4,
+      "extensions": {
+        "EXT_meshopt_compression": {
+          "buffer": 0,
+          "byteOffset": 66968,
+          "byteLength": 9347,
+          "mode": "ATTRIBUTES",
+          "filter": "OCTAHEDRAL",
+          "byteStride": 4,
+          "count": 7937
+        }
+      }
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 0
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/webp",
+      "uri": "贴图/69cece0feed37418.webp"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "terrain.bin",
+      "byteLength": 76316
+    },
+    {
+      "byteLength": 252004,
+      "extensions": {
+        "EXT_meshopt_compression": {
+          "fallback": true
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "name": "산사 · 다져진 숲 바닥",
+      "extras": {
+        "sansaMaterial": "산사 · 다져진 숲 바닥",
+        "customShader": true
+      },
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.96,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "COLOR_0": 2,
+            "TEXCOORD_0": 3,
+            "NORMAL": 4
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "sansa:terrain",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Sansa village and Cheongyeondang",
+      "extras": {
+        "sansaType": "Group"
+      },
+      "scale": [
+        2,
+        1.5,
+        2
+      ],
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "산책 정원",
+      "extras": {
+        "sansaType": "Group"
+      },
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "Continuous woodland ground",
+      "extras": {
+        "sansaType": "Mesh"
+      },
+      "translation": [
+        0,
+        20.206210672855377,
+        0
+      ],
+      "scale": [
+        210,
+        210,
+        210
+      ],
+      "mesh": 0
+    }
+  ],
+  "scenes": [
+    {
+      "name": "AuxScene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "EXT_meshopt_compression",
+    "EXT_texture_webp",
+    "KHR_mesh_quantization"
+  ],
+  "extensionsRequired": [
+    "EXT_meshopt_compression",
+    "EXT_texture_webp",
+    "KHR_mesh_quantization"
+  ]
+}
