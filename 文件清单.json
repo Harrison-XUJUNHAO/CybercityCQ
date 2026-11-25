@@ -2,8 +2,8 @@
   "note": "镜像目录（仓库根 = 镜像基址），等负责人确认后再推送；镜像地址 = 镜像基址 + path",
   "repository": "https://github.com/Harrison-XUJUNHAO/CybercityCQ",
   "mirrorBase": "https://cdn.jsdelivr.net/gh/Harrison-XUJUNHAO/CybercityCQ@<提交号>",
-  "files": 164,
-  "totalBytes": 48608504,
+  "files": 163,
+  "totalBytes": 48876662,
   "limits": {
     "fileBytes": 20000000,
     "repoBytes": 50000000
@@ -637,14 +637,9 @@
       "sha256": "7cfdd84154fe2188327cb83a65e167934edc25324f0824f7f4e8b8917e2d2c4e"
     },
     {
-      "path": "/v/c7cc1b89312949604445/cq/cq-opening/assets/still-landscape.webp",
-      "bytes": 77486,
-      "sha256": "c7cc1b893129496044450b1ef68e1111c8d722fe0edd60e7803f8ce469a50408"
-    },
-    {
-      "path": "/v/582fd73185df3a7f29b7/cq/cq-opening/assets/still-portrait.webp",
-      "bytes": 41514,
-      "sha256": "582fd73185df3a7f29b7dd159525f643801405bafefd9cbb5ba58c3a229dc4ba"
+      "path": "/v/3702b8cb6ad99f4c34c9/cq/cq-opening/assets/hall-front.webp",
+      "bytes": 387158,
+      "sha256": "3702b8cb6ad99f4c34c9d5b7ac824208964300849e905ef50905efe80c8ae988"
     },
     {
       "path": "/v/562cd79c31211ce866ba/cq/cq-support/assets/owner-card.png",

@@ -1,4 +1,4 @@
-共 164 个文件，46.36 MB（48608504 字节）
+共 163 个文件，46.61 MB（48876662 字节）
 jsDelivr 限制（按严的算）：单个文件 ≤ 20 MB、整个仓库 ≤ 50 MB。超过单文件限制的：无；整个仓库没超过 50 MB。
 
 字节数      sha256                                                            路径
@@ -127,8 +127,7 @@ jsDelivr 限制（按严的算）：单个文件 ≤ 20 MB、整个仓库 ≤ 50
      88006  298f59d76dd696b683d21545b69d74fd9d0c30923f201f7ce796445f874e485d  /v/298f59d76dd696b683d2/cq/cq-laojundong-original/assets/site/贴图/ffa31e080dbb4b41.webp
      90376  777da6f1dbcd192497d2d4b7a1dab2f7fd6e21b0e4a9c85ce7f0cdd0e17adf97  /v/777da6f1dbcd192497d2/cq/cq-laojundong-original/assets/预览件/far-terrain.glb
      73676  7cfdd84154fe2188327cb83a65e167934edc25324f0824f7f4e8b8917e2d2c4e  /v/7cfdd84154fe2188327c/cq/cq-laojundong-original/assets/预览件/gongyang-cat.glb
-     77486  c7cc1b893129496044450b1ef68e1111c8d722fe0edd60e7803f8ce469a50408  /v/c7cc1b89312949604445/cq/cq-opening/assets/still-landscape.webp
-     41514  582fd73185df3a7f29b7dd159525f643801405bafefd9cbb5ba58c3a229dc4ba  /v/582fd73185df3a7f29b7/cq/cq-opening/assets/still-portrait.webp
+    387158  3702b8cb6ad99f4c34c9d5b7ac824208964300849e905ef50905efe80c8ae988  /v/3702b8cb6ad99f4c34c9/cq/cq-opening/assets/hall-front.webp
     224198  562cd79c31211ce866ba4222db4ddbc7d3376ba793b6368f81b4d40bcd4d6d26  /v/562cd79c31211ce866ba/cq/cq-support/assets/owner-card.png
      24652  25244b86860a271c87ee74f3b6de524368c8b882b341793e2af9f5ab657c1672  /v/25244b86860a271c87ee/cq/cq-support/assets/owner-portrait.webp
     185997  9f0277fd1a5a8291417d9a546c83e9413dfffb2c5f733c449a8150588f66da8c  /v/9f0277fd1a5a8291417d/cq/cq-support/assets/owner-qr.png
