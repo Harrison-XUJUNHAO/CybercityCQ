@@ -2,8 +2,8 @@
   "note": "镜像目录（仓库根 = 镜像基址），等负责人确认后再推送；镜像地址 = 镜像基址 + path",
   "repository": "https://github.com/Harrison-XUJUNHAO/CybercityCQ",
   "mirrorBase": "https://cdn.jsdelivr.net/gh/Harrison-XUJUNHAO/CybercityCQ@<提交号>",
-  "files": 163,
-  "totalBytes": 48876662,
+  "files": 165,
+  "totalBytes": 49131190,
   "limits": {
     "fileBytes": 20000000,
     "repoBytes": 50000000
@@ -655,6 +655,16 @@
       "path": "/v/9f0277fd1a5a8291417d/cq/cq-support/assets/owner-qr.png",
       "bytes": 185997,
       "sha256": "9f0277fd1a5a8291417d9a546c83e9413dfffb2c5f733c449a8150588f66da8c"
+    },
+    {
+      "path": "/v/b94a0771171ed300cff4/cq/cq-support/assets/pay-alipay.png",
+      "bytes": 136065,
+      "sha256": "b94a0771171ed300cff443eceb5016967c8d7c4fb3bc59fbb69ca6ec6e30e1e1"
+    },
+    {
+      "path": "/v/bc4b0392ebea90fe6e53/cq/cq-support/assets/pay-wechat.png",
+      "bytes": 118463,
+      "sha256": "bc4b0392ebea90fe6e5338f033634be493e60e95cf11c151ca2990f705569910"
     },
     {
       "path": "/v/240ba384997530212f8d/cq/cq-support/assets/traveler-lantern.webp",

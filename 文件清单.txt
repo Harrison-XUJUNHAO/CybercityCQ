@@ -1,4 +1,4 @@
-共 163 个文件，46.61 MB（48876662 字节）
+共 165 个文件，46.86 MB（49131190 字节）
 jsDelivr 限制（按严的算）：单个文件 ≤ 20 MB、整个仓库 ≤ 50 MB。超过单文件限制的：无；整个仓库没超过 50 MB。
 
 字节数      sha256                                                            路径
@@ -131,6 +131,8 @@ jsDelivr 限制（按严的算）：单个文件 ≤ 20 MB、整个仓库 ≤ 50
     224198  562cd79c31211ce866ba4222db4ddbc7d3376ba793b6368f81b4d40bcd4d6d26  /v/562cd79c31211ce866ba/cq/cq-support/assets/owner-card.png
      24652  25244b86860a271c87ee74f3b6de524368c8b882b341793e2af9f5ab657c1672  /v/25244b86860a271c87ee/cq/cq-support/assets/owner-portrait.webp
     185997  9f0277fd1a5a8291417d9a546c83e9413dfffb2c5f733c449a8150588f66da8c  /v/9f0277fd1a5a8291417d/cq/cq-support/assets/owner-qr.png
+    136065  b94a0771171ed300cff443eceb5016967c8d7c4fb3bc59fbb69ca6ec6e30e1e1  /v/b94a0771171ed300cff4/cq/cq-support/assets/pay-alipay.png
+    118463  bc4b0392ebea90fe6e5338f033634be493e60e95cf11c151ca2990f705569910  /v/bc4b0392ebea90fe6e53/cq/cq-support/assets/pay-wechat.png
      20542  240ba384997530212f8dc16e9136e7791074c6aae70b5033179e71dc81dff200  /v/240ba384997530212f8d/cq/cq-support/assets/traveler-lantern.webp
      72148  24bdbcf3472cf16ec6b2e1393f00ec67e90f8019ce09205adf103547170b8597  /v/24bdbcf3472cf16ec6b2/cq/cq-temple-assembly/assets/materials.gltf
       6972  a86fbcedfb3918d7e6e2ce893a1d304e190aa3ead80b338ad7b78aa269f646aa  /v/a86fbcedfb3918d7e6e2/cq/cq-temple-assembly/assets/stages/gate-court.attr.bin
